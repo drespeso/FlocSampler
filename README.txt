@@ -14,7 +14,7 @@ Some implemented algorithms are based on previously published work. They are pro
 WARNING !
 
 This is NOT an end user program to work. It is a calculation tool to obtain data as described in the manuscript. Although the code has been ordered and 
-commented to orientate the reader what the script is doing, there is no exhaustive description of the variables. Thus structure and accessibility are not
+commented to orientate the reader what the script is doing, there is no exhaustive description of the variables. Thus structure and accessibility have not
 been designed to be beauty nor robust, but practical.
 
 
